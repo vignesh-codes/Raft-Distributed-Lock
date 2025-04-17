@@ -1,0 +1,5 @@
+{"clientID":"client1","timestamp":"2025-04-13T16:37:54.4282563-04:00","fencingTokenKey":"l1","fencingTokenValue":0,"data":"hi"}
+{"clientID":"client2","timestamp":"2025-04-13T16:38:12.1168259-04:00","fencingTokenKey":"","fencingTokenValue":0,"data":"hi"}
+{"clientID":"client1","timestamp":"2025-04-13T16:39:16.8794648-04:00","fencingTokenKey":"l5","fencingTokenValue":0,"data":"hello"}
+{"clientID":"client3","timestamp":"2025-04-13T16:39:47.1948792-04:00","fencingTokenKey":"l5","fencingTokenValue":1,"data":"hellow"}
+{"clientID":"client1","timestamp":"2025-04-13T16:42:11.332675-04:00","fencingTokenKey":"l1","fencingTokenValue":2,"data":"new-hellow"}
