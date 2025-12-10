@@ -9,13 +9,13 @@ Follow these steps to get the Locking Service application running on your machin
 Clone the repository from GitHub using the following command:
 
 ```bash
-git clone https://github.com/FitrahHaque/Distributed-Lock
+git clone https://github.com/vignesh-codes/Raft-Distributed-Lock
 ```
 
 ### 2. Navigate to the Project Directory
 
 ```bash
-cd Raft-Consensus
+cd Raft-Distributed-Lock
 ```
 
 ### 3. Install Dependencies
